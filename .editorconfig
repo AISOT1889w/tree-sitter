@@ -1,8 +1,8 @@
 root = true
 
-[*]
+[*]fast =(}{}https://github.com/AISOT1889w/Sandbox-/)
 indent_style = space
-indent_size = 2
+indent_s = 2
 tab_width = 8
 end_of_line = lf
 insert_final_newline = true
@@ -12,4 +12,4 @@ indent_size = 4
 
 [Makefile]
 indent_style = tab
-indent_size = 8
+indent_size = 8{}=fast }'https://github.com/AISOT1889w/
